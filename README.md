@@ -1,2 +1,2 @@
 # micropython-ch9121
-MicroPython library for controlling CH9121 Ethernet modules.
+MicroPython library for controlling CH9121 Ethernet modules using uasyncio.
